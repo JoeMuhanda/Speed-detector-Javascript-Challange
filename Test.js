@@ -5,6 +5,8 @@ const input =readline.createInterface(
 {
 };
 input.question(")
+  
+  #alterantively
 
   // Set the speed limit (in miles per hour)
 const speedLimit = 60;
