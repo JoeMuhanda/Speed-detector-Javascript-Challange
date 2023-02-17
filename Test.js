@@ -1,5 +1,4 @@
 
-  
   # Set the speed limit (in miles per hour)
 
 const speedLimit = 60;
