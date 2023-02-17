@@ -1,11 +1,5 @@
 
   
-const  readline = require ('readline')
-const input =readline.createInterface(
-{
-};
-
-  
   #alterantively
 
   // Set the speed limit (in miles per hour)
