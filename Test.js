@@ -1,8 +1,7 @@
 
   
-  #
+  # Set the speed limit (in miles per hour)
 
-  // Set the speed limit (in miles per hour)
 const speedLimit = 60;
 
 // Define a function to check the speed
